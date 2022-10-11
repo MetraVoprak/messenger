@@ -1,0 +1,9 @@
+items:
+- Milk
+- Butter
+- Beer
+items_price:
+  Beer: 4€
+  Butter: 5€
+  Milk: 10€
+items_quantity: 4
